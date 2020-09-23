@@ -32,18 +32,15 @@ In this project, you will find a PDF of my presentation, a code file for my EDA 
 
 ## Files:
 ### Slideshow PDF:
-- [TaylorSwift.pdf](https://github.com/thisismetis/chi20_ds15/tree/master/student_submissions/projects/project-04/read_lindsay/TaylorSwift.pdf)
+- [TaylorSwift.pdf](https://github.com/lindsayread/NLP_Analysis_of_Taylor_Swift_Lyrics/blob/master/TaylorSwift.pdf)
 
 ### Code File:
 
-[TSwiftLyricsJN.ipynb](https://github.com/thisismetis/chi20_ds15/tree/master/student_submissions/projects/project-04/read_lindsay/TSwiftLyricsJN.ipynb)
+[TSwiftLyricsJN.ipynb](https://github.com/lindsayread/NLP_Analysis_of_Taylor_Swift_Lyrics/blob/master/TSwiftLyricsJN.ipynb)
 
 ### Tableau Visualization Files:
 
-[Project4TableauPresentation.twbx](https://github.com/thisismetis/chi20_ds15/tree/master/student_submissions/projects/project-04/read_lindsay/Project4TableauPresentation.twbx)
-
-### README.md:
-- [README.md](https://github.com/thisismetis/chi20_ds15/tree/master/student_submissions/projects/project-04/read_lindsay/README.md)
+[Project4TableauPresentation.twbx](https://github.com/lindsayread/NLP_Analysis_of_Taylor_Swift_Lyrics/blob/master/Project4TableauPresentation.twbx)
 
 ## Data:
 
