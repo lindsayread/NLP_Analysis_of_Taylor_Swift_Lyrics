@@ -36,19 +36,19 @@ In this project, you will find a PDF of my presentation, a code file for my EDA 
 
 ### Code File:
 
-[TSwiftLyricsJN.ipynb](https://github.com/lindsayread/NLP_Analysis_of_Taylor_Swift_Lyrics/blob/master/TSwiftLyricsJN.ipynb)
+- [TSwiftLyricsJN.ipynb](https://github.com/lindsayread/NLP_Analysis_of_Taylor_Swift_Lyrics/blob/master/TSwiftLyricsJN.ipynb)
 
 ### Tableau Visualization Files:
 
-[Project4TableauPresentation.twbx](https://github.com/lindsayread/NLP_Analysis_of_Taylor_Swift_Lyrics/blob/master/Project4TableauPresentation.twbx)
+- [Project4TableauPresentation.twbx](https://github.com/lindsayread/NLP_Analysis_of_Taylor_Swift_Lyrics/blob/master/Project4TableauPresentation.twbx)
 
 ## Data:
 
-[Kaggle: Taylor Swift Lyrics](https://www.kaggle.com/ishaanaditya/taylorswiftlyricsfeatures?select=LyricsFeaturesGenre.csv)
+- [Kaggle: Taylor Swift Lyrics](https://www.kaggle.com/ishaanaditya/taylorswiftlyricsfeatures?select=LyricsFeaturesGenre.csv)
 
 ## Other Sources:
 
-[Taylor Swift Wikipedia](https://en.wikipedia.org/wiki/Taylor_Swift)
+- [Taylor Swift Wikipedia](https://en.wikipedia.org/wiki/Taylor_Swift)
 
 ## Skills & Analysis:
 
